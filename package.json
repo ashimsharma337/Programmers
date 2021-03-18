@@ -1,0 +1,22 @@
+{
+  "name": "programmers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "programmer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashimsharma337/Programmers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashimsharma337/Programmers/issues"
+  },
+  "homepage": "https://github.com/ashimsharma337/Programmers#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
